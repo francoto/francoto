@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Astrophysic gamma array analysis in LAPP, CNRS.
   
 🌱 I’ve been working on Computer Vision application in Medical Imaging and Waste Management.
+
+🤓 Find my other projects on [Gitlab](https://gitlab.com/tofranco)
+
+More info about me [here](https://francoto.github.io/)
