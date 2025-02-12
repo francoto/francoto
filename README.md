@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   
 🌱 I’ve been working on Computer Vision application in Medical Imaging and Waste Management.
 
-🤓 Find my other projects on [![gitlab logo](https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png|30)](https://gitlab.com/tofranco)
+🤓 Find my other projects on [tofranco/gitlab)](https://gitlab.com/tofranco)
 
 More info about me [here](https://francoto.github.io/)
