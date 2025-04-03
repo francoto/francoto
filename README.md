@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Astrophysic gamma array analysis in LAPP, CNRS.
+🔭 I’m currently working on Astrophysic gamma array analysis in LAPP, CNRS. 
   
-🌱 I’ve been working on Computer Vision application in Medical Imaging and Waste Management.
+🌱 I’ve been working on Computer Vision applications in Medical Imaging and Waste Management.
 
-🤓 Find my other projects on [tofranco/gitlab)](https://gitlab.com/tofranco)
+🤓 Find my other projects on [tofranco/gitlab](https://gitlab.com/tofranco)
 
 More info about me [here](https://francoto.github.io/)
